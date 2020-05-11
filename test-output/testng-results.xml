@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-10T07:08:07Z" name="Suite" finished-at="2020-05-10T07:08:13Z" duration-ms="5631">
+    <groups>
+    </groups>
+    <test started-at="2020-05-10T07:08:07Z" name="Test" finished-at="2020-05-10T07:08:13Z" duration-ms="5631">
+      <class name="com.nau.AppTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.nau.AppTest@4bb4de6a]" started-at="2020-05-10T07:08:07Z" name="setUp" finished-at="2020-05-10T07:08:11Z" duration-ms="4413" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:1, instance:com.nau.AppTest@4bb4de6a]" started-at="2020-05-10T07:08:11Z" name="loginTest" finished-at="2020-05-10T07:08:12Z" duration-ms="895" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="homePageTest()[pri:2, instance:com.nau.AppTest@4bb4de6a]" started-at="2020-05-10T07:08:12Z" name="homePageTest" finished-at="2020-05-10T07:08:12Z" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTest -->
+        <test-method signature="cashAccountTest()[pri:3, instance:com.nau.AppTest@4bb4de6a]" started-at="2020-05-10T07:08:12Z" name="cashAccountTest" finished-at="2020-05-10T07:08:12Z" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cashAccountTest -->
+        <test-method signature="investmentAccountTest()[pri:4, instance:com.nau.AppTest@4bb4de6a]" started-at="2020-05-10T07:08:12Z" name="investmentAccountTest" finished-at="2020-05-10T07:08:12Z" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- investmentAccountTest -->
+        <test-method signature="creditAccountTest()[pri:5, instance:com.nau.AppTest@4bb4de6a]" started-at="2020-05-10T07:08:12Z" name="creditAccountTest" finished-at="2020-05-10T07:08:12Z" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creditAccountTest -->
+        <test-method signature="loanAccountTest()[pri:6, instance:com.nau.AppTest@4bb4de6a]" started-at="2020-05-10T07:08:12Z" name="loanAccountTest" finished-at="2020-05-10T07:08:13Z" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loanAccountTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.nau.AppTest@4bb4de6a]" started-at="2020-05-10T07:08:13Z" name="tearDown" finished-at="2020-05-10T07:08:13Z" duration-ms="94" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.nau.AppTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
